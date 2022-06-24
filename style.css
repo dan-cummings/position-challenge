@@ -4,6 +4,9 @@
 }
 
 .circle{
+    position: relative;
+    left: 35%;
+    top: 35%;
     background-color: cornflowerblue;
     width: 150px;
     height: 150px;
