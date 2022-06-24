@@ -5,8 +5,10 @@
 
 .circle{
     position: relative;
-    left: 35%;
-    top: 35%;
+    left: 50%;
+    top: 50%;
+    margin-left: -75px;
+    margin-top: -75px;
     background-color: cornflowerblue;
     width: 150px;
     height: 150px;
